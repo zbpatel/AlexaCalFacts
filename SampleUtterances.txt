@@ -1,0 +1,8 @@
+GETFACTINTENT give me a Cal fact
+GETFACTINTENT tell me a Cal fact
+GETFACTINTENT tell me a fact
+GETFACTINTENT tell me a UC fact
+GETFACTINTENT tell me a fact about Cal
+GETFACTINTENT tell me a fact about Berkeley
+GETFACTINTENT tell me a fact about University of California
+GETFACTINTENT tell me a fact about the University of California
