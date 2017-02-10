@@ -1,8 +1,58 @@
+GETFACTINTENT give a fact
+GETFACTINTENT give me a fact
+GETFACTINTENT give me a UC fact
 GETFACTINTENT give me a Cal fact
-GETFACTINTENT tell me a Cal fact
+GETFACTINTENT give me a Berkeley fact
+GETFACTINTENT give me a University of California fact
+GETFACTINTENT give me a fact about Cal
+GETFACTINTENT give me a fact about Berkeley
+GETFACTINTENT give me a fact about University of California
+GETFACTINTENT give me a fact about the University of California
+
+GETFACTINTENT tell a fact
 GETFACTINTENT tell me a fact
 GETFACTINTENT tell me a UC fact
+GETFACTINTENT tell me a Cal fact
+GETFACTINTENT tell me a Berkeley fact
+GETFACTINTENT give me a University of California fact
 GETFACTINTENT tell me a fact about Cal
 GETFACTINTENT tell me a fact about Berkeley
 GETFACTINTENT tell me a fact about University of California
 GETFACTINTENT tell me a fact about the University of California
+
+GETFACTINTENT teach a fact
+GETFACTINTENT teach me a fact
+GETFACTINTENT teach me a UC fact
+GETFACTINTENT teach me a Cal fact
+GETFACTINTENT teach me a Berkeley fact
+GETFACTINTENT teach me a University of California fact
+GETFACTINTENT teach me a fact about Cal
+GETFACTINTENT teach me a fact about Berkeley
+GETFACTINTENT teach me a fact about University of California
+GETFACTINTENT teach me a fact about the University of California
+
+GETFACTINTENT send a fact
+GETFACTINTENT send me a fact
+GETFACTINTENT send me a UC fact
+GETFACTINTENT send me a Cal fact
+GETFACTINTENT send me a Berkeley fact
+GETFACTINTENT send me a University of California fact
+GETFACTINTENT send me a fact about Cal
+GETFACTINTENT send me a fact about Berkeley
+GETFACTINTENT send me a fact about University of California
+GETFACTINTENT send me a fact about the University of California
+
+GETFACTINTENT share a fact
+GETFACTINTENT share me a fact
+GETFACTINTENT share me a UC fact
+GETFACTINTENT share me a Cal fact
+GETFACTINTENT share me a Berkeley fact
+GETFACTINTENT share me a University of California fact
+GETFACTINTENT share me a fact about Cal
+GETFACTINTENT share me a fact about Berkeley
+GETFACTINTENT share me a fact about University of California
+GETFACTINTENT share me a fact about the University of California
+
+GETFACTINTENT for a fact
+GETFACTINTENT a fact
+GETFACTINTENT fact
